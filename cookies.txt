@@ -1,20 +1,21 @@
 # Netscape HTTP Cookie File
 # This is a generated file!  Do not edit.
 
-.youtube.com	TRUE	/	True	0	__Secure-1PAPISID	kK5e0q8d_3_3fo9d/AYUbaNChK4mr7YKwn
-.youtube.com	TRUE	/	True	0	__Secure-1PSID	g.a000uAi3Nzih1gs2AkDBwejYJWrkPUcry6XDVYcM0DICwCnKmU93opGwcDCJ5xl9B7MSlqQdDAACgYKAYMSARISFQHGX2Miqou4C6KqAYLh-ldS9N5FMRoVAUF8yKrbWtzigN4YpLCl_GvjpdO10076
-.youtube.com	TRUE	/	True	0	__Secure-1PSIDCC	AKEyXzXpNv4JZ7cPt1g3GIw955QHYy8FSf7MaHK32roVvboUjPMjppaHynq7lB8JC6HtFfvgSbmG
-.youtube.com	TRUE	/	True	0	__Secure-1PSIDTS	sidts-CjEB7pHptflxn4sk-tR8_zJNK-ZuaWd85aivl9B1idSP8cd0xPRNgYegNE-c15HroBP1EAA
-.youtube.com	TRUE	/	True	0	__Secure-3PAPISID	kK5e0q8d_3_3fo9d/AYUbaNChK4mr7YKwn
-.youtube.com	TRUE	/	True	0	__Secure-3PSID	g.a000uAi3Nzih1gs2AkDBwejYJWrkPUcry6XDVYcM0DICwCnKmU93SbiEBn5n6l43j3EUQd3JcQACgYKATASARISFQHGX2Mi54vqOO1wW9PE4hhDgKOv0xoVAUF8yKqq3lH6UHxAs-ydzalIpErq0076
-.youtube.com	TRUE	/	True	0	__Secure-3PSIDCC	AKEyXzUYHXFBL5WmHCn0oqxRVFRy2dWpqnK6NRkQo9ohHDeW3oaujUaZwYH0hW20fnBiazgBw6Zb
-.youtube.com	TRUE	/	True	0	__Secure-3PSIDTS	sidts-CjEB7pHptflxn4sk-tR8_zJNK-ZuaWd85aivl9B1idSP8cd0xPRNgYegNE-c15HroBP1EAA
-.youtube.com	TRUE	/	False	0	APISID	wlA0c2pRE5ld7Wl4/AvjSQtgHBoZTxeZ7c
-.youtube.com	TRUE	/	False	0	HSID	AdrSu5SYXNUywMZTn
-.youtube.com	TRUE	/	True	0	LOGIN_INFO	AFmmF2swRQIhAJDuw-vnDiJFMFwIezNhkFWv-h8uqgB3Ms4770sGYy8PAiBjM01yWaqrRSa_htMWbEi_xrfZZ1HwaJdipBijHXPM0w:QUQ3MjNmelFsOERrUlE4S1JuUWhHRExDSUxvbm0xLU02SnBmcmlBTl9sUjZMSC1XeWgwV3ZrWmFXMHpSS2d5a2NPcmxqRVk4TjJCalg5QmVQeDgxUndXZVNNUGR6OFVQOU8yZWJtTWV3MmJnZVA3VlpjSkp3ZmZhRGJpeml5cVVQb3ZqMldFTmtZa3ozRWg3b05VYXh4ODBaZXpQNDRlOUd3
-.youtube.com	TRUE	/	True	0	PREF	f6=400&volume=46&f7=4100&tz=America.Mexico_City&repeat=ONE&autoplay=true&has_user_changed_default_autoplay_mode=true&f5=30000
-.youtube.com	TRUE	/	True	0	SAPISID	kK5e0q8d_3_3fo9d/AYUbaNChK4mr7YKwn
-.youtube.com	TRUE	/	False	0	SID	g.a000uAi3Nzih1gs2AkDBwejYJWrkPUcry6XDVYcM0DICwCnKmU93F16NOXT0ahJdP2H3LhSAfwACgYKAfESARISFQHGX2MitQ20GF8ERSFxMuGO1sNARRoVAUF8yKoOd--kY9dVF_maZ0-NKdfS0076
-.youtube.com	TRUE	/	False	0	SIDCC	AKEyXzUOCLv0gCqXIKxWeGhbgbQunmByCZm1VZmp2awg7JU3PsyEZuiR2ggFrYS458bRzLLd2nE
-.youtube.com	TRUE	/	True	0	SSID	Afw38l8bed0KU2TLa
-.youtube.com	TRUE	/	True	0	wide	1
+.youtube.com	TRUE	/	True	0	__Secure-1PAPISID	3kMSF0hUvlDju1ri/Ah4QABPTlTHDYMIIx
+.youtube.com	TRUE	/	True	0	__Secure-1PSID	g.a000uwi3N_KLnB-CzR2HPEh4ZLWFdMxnE2x4W85YKhbFiUPs4bm-mtLody7o2OAp0hC262ktAwACgYKAcESARISFQHGX2MiOiN-_H1i7DkC3y_vyUv5IBoVAUF8yKoHMTHYklc7Qwa5ezhDsaqZ0076
+.youtube.com	TRUE	/	True	0	__Secure-1PSIDCC	AKEyXzWdDjbd0r4MEnm5vqAAgEa87VAVR5CvRpETrgYED6mFs4ZnMBO16pcQ9GqDebV0U2S9
+.youtube.com	TRUE	/	True	0	__Secure-1PSIDTS	sidts-CjIB7pHptZ4Js1UD3zheMzYicpVkeyg3FFnJqjuPnrP6ccTD6hZXzpIFWOYWcOA1r90O_RAA
+.youtube.com	TRUE	/	True	0	__Secure-3PAPISID	3kMSF0hUvlDju1ri/Ah4QABPTlTHDYMIIx
+.youtube.com	TRUE	/	True	0	__Secure-3PSID	g.a000uwi3N_KLnB-CzR2HPEh4ZLWFdMxnE2x4W85YKhbFiUPs4bm-eLY2R9w8KvcgJGvCZ5pdAQACgYKAcYSARISFQHGX2MiVTded9ZHVCs_uN4j22SUXBoVAUF8yKqt58bJbnbz1wfVEOD0KeZC0076
+.youtube.com	TRUE	/	True	0	__Secure-3PSIDCC	AKEyXzW5DDTTXFqepPVY533_qCgKK1rg37-ff5jI4YxUnJ6QGPLq0jA7xNsKwAnwGplmxa7z
+.youtube.com	TRUE	/	True	0	__Secure-3PSIDTS	sidts-CjIB7pHptZ4Js1UD3zheMzYicpVkeyg3FFnJqjuPnrP6ccTD6hZXzpIFWOYWcOA1r90O_RAA
+.youtube.com	TRUE	/	False	0	APISID	Rp6njdM8J75W4cUi/A-2HZ9GGggdvLWRMx
+.youtube.com	TRUE	/	True	0	CONSISTENCY	AKreu9tI1gS53W2eKMft5zDt_uyu841v-gNt1X8XgUiERUYqgsN1AXZcHEeMaMqqnAGJ3DA-cRLDZX14071QHd2vor4Jnl5QzQfcovscBmnU9n_usBJVnJbJFOY
+.youtube.com	TRUE	/	True	0	GPS	1
+.youtube.com	TRUE	/	False	0	HSID	AUP9gUuxzIsgnBleW
+.youtube.com	TRUE	/	True	0	LOGIN_INFO	AFmmF2swRAIgaMt8KyHTse1u09YqdsXFvvxxFhECWzIZw0NEFMJ2DecCIFFHlYTAlfib1uD20PrFpm0Hj9yeteVpAZL6FUkUdi7z:QUQ3MjNmdzJpR0xTaEJhUkQ3MHNUUWVlT0ZrUkFTUnZjU0RQRU1jcVA5MUZacFY3QTNLd29CZk5RREFhMkQwN2lvVzNBcUZ5czk1MzZxX0VtczVfanR1YU5RODVHLTdmWWgtZkVsbS1WdlllcXc4a2JiUXlaOW4tOFJnQjZDNVQ0c24yaUE4UDdZcWczLXhRYmllOU9yNF9DbXN5YmxIaXBn
+.youtube.com	TRUE	/	True	0	PREF	tz=America.Mexico_City
+.youtube.com	TRUE	/	True	0	SAPISID	3kMSF0hUvlDju1ri/Ah4QABPTlTHDYMIIx
+.youtube.com	TRUE	/	False	0	SID	g.a000uwi3N_KLnB-CzR2HPEh4ZLWFdMxnE2x4W85YKhbFiUPs4bm-2OUL04IU5NmUydEptmt7hgACgYKAa8SARISFQHGX2Mi1bbRSzaff98kxPLdyvd6TBoVAUF8yKqVI3sLW2ghR2J1JLFiPkuX0076
+.youtube.com	TRUE	/	False	0	SIDCC	AKEyXzWf-rUH8-7MAdbrvP4Cu0VBOusSETaAfbKrr09hMrTfa2oN9CC6DMxh4uwUa_sulAByTA
+.youtube.com	TRUE	/	True	0	SSID	Ak87H1ow8MU5LcW46
