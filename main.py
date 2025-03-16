@@ -15,15 +15,18 @@ queue = []
 is_playing = False
 voice_client = None
 
+# Ruta al archivo de cookies (asegúrate de que esté correctamente en tu entorno)
+cookie_file_path = 'cookies.txt'  # Actualiza esta ruta
+
 # Configura yt_dlp (reemplazo de youtube_dl)
 ydl_opts = {
-    'format':
-    'bestaudio/best',
+    'format': 'bestaudio/best',
     'postprocessors': [{
         'key': 'FFmpegExtractAudio',
         'preferredcodec': 'mp3',
         'preferredquality': '192',
     }],
+    'cookiefile': cookie_file_path,  # Aquí agregamos el archivo de cookies
 }
 
 # Configura la ruta de ffmpeg
